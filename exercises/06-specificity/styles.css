@@ -3,6 +3,6 @@ ul li {
 }
 
 li + #thirditem {
-	background: yellow;
+	background: green !important;
 }
 /**** DO NOT EDIT ANYTHING ABOVE THIS LINE ****/

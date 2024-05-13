@@ -1,1 +1,23 @@
-/* add your styles here */
+body {
+	background-image: url(../../.learn/assets/background-vertical.jpg?raw=true);
+}
+body {
+	font-family: "Times New Roman", Times, serif;
+	padding-left: 20px;
+}
+h1 {
+	font-family: "Courier New", Courier, monospace !important;
+	color: red;
+}
+h2 {
+	text-decoration: underline;
+}
+p1 {
+	background-color: rgba(red, green, blue, alpha);
+}
+a:hover {
+	color: green;
+}
+a {
+	text-decoration: none;
+}
